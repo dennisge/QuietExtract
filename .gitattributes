@@ -1,0 +1,2 @@
+Sources/CArchive/archive.h whitespace=-space-before-tab
+Vendor/7zip/License.txt -text whitespace=cr-at-eol
